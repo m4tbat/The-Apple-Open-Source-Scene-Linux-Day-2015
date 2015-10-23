@@ -118,6 +118,9 @@ It's fun and rewarding
 
 ---
 
-# **Thank You**
+## **Thank You**
+
+#### Slides available at
+#### [github.com/madbat/The-Apple-Open-Source-Scene-Linux-Day-2015](https://github.com/madbat/The-Apple-Open-Source-Scene-Linux-Day-2015)
 
 ![fit original](images/bowing.png)
